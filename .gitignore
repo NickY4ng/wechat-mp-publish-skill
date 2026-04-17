@@ -1,0 +1,15 @@
+# 微信凭证（敏感）
+scripts/config.json
+scripts/token_store.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
